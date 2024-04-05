@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author potda
+ *
+ */
+module StreamApi {
+}
